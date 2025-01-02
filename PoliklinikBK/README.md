@@ -14,15 +14,15 @@ Aplikasi berbasis website **POLIKLINIK** menggunakan PHP dengan koneksi Admin, D
 
 ## Sample Login Credentials
 ### Admin
-- **Username:** agus  
-- **Password:** agus  
+- **Username:** rizky  
+- **Password:** 1234 
 
 ### Dokter
-- **NIP:** 16782235  
-- **Password:** soun  
+- **NIP:** 12345  
+- **Password:** 12345  
 
 ### Periksa Pasien
-- Example ID: `2024-12-10`
+- Example ID: `2025-01-5`
 
 ## Language and Tools
 - **Language:** PHP  
